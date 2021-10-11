@@ -5,7 +5,7 @@
 <listener class-name="Academy.Listeners"/>
 </listeners>
 
-  <test name="Validating User login">
+  <test name="Validate User login">
     <classes>
       <class name="Academy.HomePage"/>
           </classes>
